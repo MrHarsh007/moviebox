@@ -1,0 +1,25 @@
+export 'package:carousel_slider/carousel_slider.dart';
+export 'package:flutter/material.dart';
+export 'package:moviesbox/src/common_componenet/tmbd_image.dart';
+export 'package:moviesbox/src/domain/entity/movies_model.dart';
+export 'package:moviesbox/src/utilities/constant.dart';
+export 'package:moviesbox/src/utilities/sized_box_extension.dart';
+export 'package:skeletonizer/skeletonizer.dart';
+export 'package:flutter_bloc/flutter_bloc.dart';
+export 'package:moviesbox/src/presentation/bloc/movies/trending_movies/trending_movies_bloc.dart';
+export 'package:moviesbox/src/presentation/pages/movies/widgets/trending_movies_widget.dart';
+export 'package:moviesbox/src/presentation/pages/movies/movies_screen.dart';
+export 'package:moviesbox/src/utilities/theme/app_colors.dart';
+export 'package:get/get_utils/get_utils.dart';
+export 'package:go_router/go_router.dart';
+export 'package:moviesbox/gen/assets.gen.dart';
+export 'package:moviesbox/src/core/constant/local_storage_constants.dart';
+export 'package:moviesbox/src/core/helpers/shared_pref_helper.dart';
+export 'package:moviesbox/src/presentation/pages/onboarding/model/onboarding_model.dart';
+export 'package:moviesbox/src/presentation/pages/onboarding/widget/onboarding_widget.dart';
+export 'package:moviesbox/src/utilities/routing/app_routes.dart';
+export 'package:moviesbox/src/common_componenet/common_button.dart';
+export 'package:animated_bottom_navigation_bar/animated_bottom_navigation_bar.dart'
+    hide IndexedWidgetBuilder;
+export 'package:moviesbox/src/common_componenet/common_loader.dart';
+export 'package:animate_do/animate_do.dart';
