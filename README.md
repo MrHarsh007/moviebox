@@ -6,20 +6,33 @@ A comprehensive Flutter application for movie and TV show enthusiasts. Discover 
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
 
-### Movie Screen
-<img src="featured_photos/movies.png" alt="Movie Screeen" width="800"/>
+<table>
+  <tr>
+    <td><img src="featured_photos/movies.png" alt="Movie Screen" width="400"/></td>
+    <td><img src="featured_photos/movie_details.png" alt="Movie Details Screen" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Movie Screen</b></td>
+    <td align="center"><b>Movie Details Screen</b></td>
+  </tr>
+  <tr>
+    <td><img src="featured_photos/cast_details.png" alt="Cast Details Screen" width="400"/></td>
+    <td><img src="featured_photos/watchlist.png" alt="Watchlist Screen" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cast Details Screen</b></td>
+    <td align="center"><b>Watchlist Screen</b></td>
+  </tr>
+  <tr>
+    <td><img src="featured_photos/setting.png" alt="Setting Screen" width="400"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Setting Screen</b></td>
+    <td></td>
+  </tr>
+</table>
 
-### Movie Details Screen
-<img src="featured_photos/movie_details.png" alt="Movie Details Screen" width="800"/>
-
-### Cast Details Screen
-<img src="featured_photos/cast_details.png" alt="Cast Details Screen" width="800"/>
-
-### Watchlist Screen
-<img src="featured_photos/watchlist.png" alt="Watchlist Screen" width="800"/>
-
-### Setting Screen
-<img src="featured_photos/setting.png" alt="Setting Screen" width="800"/>
 
 ## Features ✨
 
