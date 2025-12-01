@@ -2,6 +2,25 @@
 
 A comprehensive Flutter application for movie and TV show enthusiasts. Discover trending movies, explore detailed information, track your favorites, and enjoy a seamless entertainment experience with integrated Firebase services and Google Mobile Ads.
 
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+
+### Movie Screen
+<img src="featured_photos/movies.png" alt="Movie Screeen" width="800"/>
+
+### Movie Details Screen
+<img src="featured_photos/movie_details.png" alt="Movie Details Screen" width="800"/>
+
+### Cast Details Screen
+<img src="featured_photos/cast_details.png" alt="Cast Details Screen" width="800"/>
+
+### Watchlist Screen
+<img src="featured_photos/watchlist.png" alt="Watchlist Screen" width="800"/>
+
+### Setting Screen
+<img src="featured_photos/setting.png" alt="Setting Screen" width="800"/>
+
 ## Features ✨
 
 - **Movie Discovery**: Browse trending, popular, top-rated, and upcoming movies
