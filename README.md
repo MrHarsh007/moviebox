@@ -7,28 +7,28 @@ A comprehensive Flutter application for movie and TV show enthusiasts. Discover 
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
 
 <table>
+    <tr>
+    <td align="center"><b>Movie Screen</b></td>
+    <td align="center"><b>Movie Details Screen</b></td>
+  </tr>
   <tr>
     <td><img src="featured_photos/movies.png" alt="Movie Screen" width="400"/></td>
     <td><img src="featured_photos/movie_details.png" alt="Movie Details Screen" width="400"/></td>
   </tr>
-  <tr>
-    <td align="center"><b>Movie Screen</b></td>
-    <td align="center"><b>Movie Details Screen</b></td>
+    <tr>
+    <td align="center"><b>Cast Details Screen</b></td>
+    <td align="center"><b>Watchlist Screen</b></td>
   </tr>
   <tr>
     <td><img src="featured_photos/cast_details.png" alt="Cast Details Screen" width="400"/></td>
     <td><img src="featured_photos/watchlist.png" alt="Watchlist Screen" width="400"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Cast Details Screen</b></td>
-    <td align="center"><b>Watchlist Screen</b></td>
-  </tr>
-  <tr>
-    <td><img src="featured_photos/setting.png" alt="Setting Screen" width="400"/></td>
+    <td align="center"><b>Setting Screen</b></td>
     <td></td>
   </tr>
   <tr>
-    <td align="center"><b>Setting Screen</b></td>
+    <td><img src="featured_photos/setting.png" alt="Setting Screen" width="400"/></td>
     <td></td>
   </tr>
 </table>
